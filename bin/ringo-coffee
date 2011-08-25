@@ -2,7 +2,7 @@
 # -----------------------------------------------------------------------------
 
 #
-# find_ringo_home - mostly an emulation of GNU's `readlink -f`
+# find_ringo_coffee_home - mostly an emulation of GNU's `readlink -f`
 #
 function find_ringo_coffee_home() {
     # save original working directory
