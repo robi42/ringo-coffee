@@ -1,0 +1,20 @@
+# Ringo Coffee
+
+Enables [RingoJS] to conveniently run [CoffeeScript].
+
+## Install
+
+    $ ringo-admin install robi42/ringo-coffee
+
+## Examples
+
+Run:
+
+    $ ringo-coffee $RINGO_HOME/packages/ringo-coffee/examples/server.coffee
+
+Or:
+
+    $ ringo-coffee $RINGO_HOME/packages/ringo-coffee/examples/swing.coffee
+
+  [RingoJS]:      http://ringojs.org/
+  [CoffeeScript]: http://coffeescript.org/

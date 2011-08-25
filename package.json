@@ -1,0 +1,8 @@
+{
+    "name": "ringo-coffee",
+    "version": "0.1.0",
+    "description": "Enables RingoJS to run CoffeeScript.",
+    "keywords": ["rhino", "ringo", "coffeescript"],
+    "author": "Robert Thurnher (http://robert42.com/) <r.thurnher@gmail.com>",
+    "main": "lib/main.js"
+}
