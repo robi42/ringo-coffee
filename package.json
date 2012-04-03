@@ -1,8 +1,26 @@
 {
     "name": "ringo-coffee",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "description": "Enables RingoJS to run CoffeeScript.",
     "keywords": ["rhino", "ringo", "coffeescript"],
     "author": "Robert Thurnher (http://robert42.com/) <r.thurnher@gmail.com>",
+    "maintainers": [{
+        "name": "Robert Thurnher",
+        "email": "r.thurnher@gmail.com",
+        "web": "http://robert42.com/"
+    }, {
+        "name": "Aadit M Shah",
+        "email": "aaditmshah@myopera.com",
+        "web": "https://github.com/aaditmshah"
+    }],
+    "contributors": [{
+        "name": "Robert Thurnher",
+        "email": "r.thurnher@gmail.com",
+        "web": "http://robert42.com/"
+    }, {
+        "name": "Aadit M Shah",
+        "email": "aaditmshah@myopera.com",
+        "web": "https://github.com/aaditmshah"
+    }],
     "main": "lib/main.js"
 }
