@@ -16,5 +16,13 @@ Or:
 
     $ ringo-coffee $RINGO_HOME/packages/ringo-coffee/examples/swing.coffee
 
+Or:
+
+    $ ringo-coffee $RINGO_HOME/packages/ringo-coffee/examples/foo.coffee
+
+Or:
+
+    $ ringo-coffee $RINGO_HOME/packages/ringo-coffee/examples/bar.coffee
+
   [RingoJS]:      http://ringojs.org/
   [CoffeeScript]: http://coffeescript.org/
